@@ -15,4 +15,4 @@ npm add @react-native-async-storage/async-storage
 Para correr el proyecto:
 clonar el repo
 npm install
-npm expo start
+npm start
